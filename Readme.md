@@ -32,6 +32,10 @@ When I make changes in the CSS file.
 
 -Then I make a comment above the code.
 
+## Screenshot
+
+<img src="/assets/images/screencapture-romzzp-github-io-Code-refactor-2021-05-14-01_06_36.png"/>
+
 ## Link to the application
 
 [Application](https://romzzp.github.io/Code-refactor/)
